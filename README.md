@@ -16,6 +16,6 @@ With the experience of being a PM, It was possible to sharphen my comunication s
 
 ## Skills
 ### Strong
-Java / STL
+C++ / STL
 ### Knowledgable
-C++ / CMAKE / Unity / C# / Spring web MVC / Android Native(API 19)
+CMAKE / Unity / C# / JAVA / Spring web MVC / Android Native(API 19)
